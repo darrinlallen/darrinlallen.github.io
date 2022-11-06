@@ -1,0 +1,1 @@
+Elon Musk says that Tesla wants to have completed Cybertruck development before the end of 2022, ready for production to begin in 2023. He later announced that the Cybertruck would indeed arrive in 2023, and in July 2022 confirmed the truck was on track to be in production by mid-2023.5 days ago
