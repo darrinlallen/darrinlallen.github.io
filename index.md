@@ -1,5 +1,4 @@
 <embed src="Linkin_Park_In_the_End.mp3" loop="true" autostart="true" width="2" height="0">
-   </body>
 <h1>Hi. My name is Darrin Allen.  I am an Android developer and web developer.  I live in las Vegas, Nevada.</h1>
 <script type="text/javascript" src="https://www.counters-free.net/count/blc0"></script><br>
  <a href='http://xn--besucherzhlerkostenlos-84b.com/'>B</a> <script type='text/javascript' src='https://www.whomania.com/ctr?id=ee921fb6baf247ee9eb273a7bfbb3e0e446946f5'></script>
