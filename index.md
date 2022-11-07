@@ -1,4 +1,4 @@
-<audio autoplay loop>
+<audio controls autoplay loop>
   <source src="Linkin_Park_In_the_End.mp3" type="audio/mpeg">
 </audio>
 <h1>Hi World. My name is Darrin Allen.  I am an Android developer and web developer.  I live in las Vegas, Nevada.</h1>
