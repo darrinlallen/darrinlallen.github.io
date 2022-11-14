@@ -1,0 +1,3 @@
+Amazon founder Jeff Bezos plans to give away the majority of his $124 billion net worth during his lifetime, telling CNN in an exclusive interview he will devote the bulk of his wealth to fighting climate change and supporting people who can unify humanity in the face of deep social and political divisions.
+
+Though Bezos' vow was light on specifics, this marks the first time he has announced that he plans to give away most of his money. Critics have chided Bezos for not signing the Giving Pledge, a promise by hundreds of the world's richest people to donate the majority of their wealth to charitable causes.
