@@ -1,0 +1,6 @@
+World's Largest Telescope Array Is Almost Ready To Stare Straight Into the Sun
+from the welcome-to-the-golden-age dept.
+China just completed construction on what is now the world's largest telescope array at the edge of the Tibetan Plateau. The country plans to aim it at our sun as part of what one expert is calling "the golden age of solar astronomy." Popular Mechanics reports:
+As reported in Nature earlier today, the Daocheng Solar Radio Telescope (DSRT) cost 100 million yuan ($14 million USD), and is comprised of over 300 antenna dishes situated in a 3 kilometer (1.87 miles) circumference formation. Initial testing will begin in June 2024, and will focus on an upcoming increase in solar activity over the next few years, particularly on how solar eruptions affect Earth.
+
+"China now has instruments that can observe all levels of the sun, from its surface to the outermost atmosphere," Hui Tian, a solar physicist at Beijing's Peking University, told Nature. Compared to similar telescopic arrays, the DSRT will be more finely tuned, and thus potentially capture weaker signals from high-energy particles emitted during CME events. As the sky above us becomes increasingly -- and sometimes problematically -- crowded by satellites, developing more reliable, accurate, and detailed analysis of solar activity will be critical to further expansion.
