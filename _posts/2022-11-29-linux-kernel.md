@@ -1,0 +1,12 @@
+Linux Kernel Gets More Infrastructure for Rust, Increasing Interest in the Language
+from the Rust-never-sleeps dept.
+Linux 6.1 (released last month) included what Linus Torvalds described as "initial Rust scaffolding," remembers this update from SD Times But now, "work has already been done since the 6.1 release to add more infrastructure for Rust in the kernel, though still none of the code interacts with any C code."
+
+And there's still no actual Rust code in Linux:
+"You need to get all those things that can make sure that Rust can compile, and you can do the debugging and all these things," explained Joel Marcey, director of advocacy and operations for the Rust Foundation, "and make sure that the memory safety is there and all that sort of stuff. And that has to happen first before you can actually write any real code in Rust for the Linux kernel itself."
+
+Marcey explained that Linux is going to be doing this inclusion very piecemeal, with lots of little integrations here and there over time so they can see how it is working. "I would imagine that over the next year, you're going to see more small incremental changes to the kernel with Rust, but as people are seeing that it's actually kind of working out, you'll be able to maybe, for example, write Linux drivers or whatever with Rust," said Marcey....
+
+According to Bec Rumbul, executive director of the Rust Foundation, Rust being added to the kernel is an "enormous vote of confidence in the Rust programming language." She explained that in the past other languages have been planned to make it into the kernel and ended up not getting put in. "I think having someone with the kind of intellectual gravity of Linus Torvalds saying 'No, it's going in there,' that kind of says an awful lot about how reliable Rust already is and how much potential there is for the future as well," she said.
+
+Rumbul believes that there will be an increased interest in the language, which is still relatively new (It first made its debut in 2010) compared to some of the other languages out there to choose from. "I suspect that because Rust is now in the kernel, and it's just being talked about much ... more widely, that it will seem like an attractive prospect to a lot of people that are looking to develop their skills and their knowledge," she said. Rumbul hopes people will also be inspired to participate in the language as contributors and maintainers, because those are some of the less popular roles within open source, but are extremely critical to the health of a language, she explained.
