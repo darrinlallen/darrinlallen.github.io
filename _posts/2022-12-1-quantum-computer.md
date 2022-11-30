@@ -1,0 +1,9 @@
+Physicists have purportedly created the first-ever wormhole, a kind of tunnel theorized in 1935 by Albert Einstein and Nathan Rosen that leads from one place to another by passing into an extra dimension of space.
+
+The wormhole emerged like a hologram out of quantum bits of information, or “qubits,” stored in tiny superconducting circuits. By manipulating the qubits, the physicists then sent information through the wormhole, they reported today in the journal Nature.
+
+The team, led by Maria Spiropulu of the California Institute of Technology, implemented the novel “wormhole teleportation protocol” using Google’s quantum computer, a device called Sycamore housed at Google Quantum AI in Santa Barbara, California. With this first-of-its-kind “quantum gravity experiment on a chip,” as Spiropulu described it, she and her team beat a competing group of physicists who aim to do wormhole teleportation with IBM and Quantinuum’s quantum computers.
+
+When Spiropulu saw the key signature indicating that qubits were passing through the wormhole, she said, “I was shaken.”
+
+The experiment can be seen as evidence for the holographic principle, a sweeping hypothesis about how the two pillars of fundamental physics, quantum mechanics and general relativity, fit together. Physicists have strived since the 1930s to reconcile these disjointed theories — one, a rulebook for atoms and subatomic particles, the other, Einstein’s description of how matter and energy warp the space-time fabric, generating gravity. The holographic principle, ascendant since the 1990s, posits a mathematical equivalence or “duality” between the two frameworks. It says the bendy space-time continuum described by general relativity is really a quantum system of particles in disguise. Space-time and gravity emerge from quantum effects much as a 3D hologram projects out of a 2D pattern.
