@@ -1,0 +1,7 @@
+Eight US Power Stations Have Been Attacked Since Mid-November
+from the pressing-charges dept.
+A week ago two power stations in North Carolina went out — cutting power to 40,000 residents — after being struck with gunfire, the Guardian reports. But looking back to late November, they add that "A string of attacks on power facilities in Oregon and Washington has caused alarm and highlighted the vulnerabilities of the U.S. electric grid..."
+As first reported by Oregon Public Broadcasting and KUOW Public Radio, there have been at least six attacks [since mid-November], some of which involved firearms and caused residents to lose power. Two of the attacks shared similarities with the incident in Moore county, North Carolina.... The four Pacific north-west utilities whose equipment was attacked have said they are cooperating with the FBI.
+
+The power supply wasn't disrupted in every case. But Oregon Public Broadcasting reported details on one attack from an email written by a security specialist with the Bonneville Power Administration:
+Two people cut through the fence surrounding a high-voltage substation, then "used firearms to shoot up and disable numerous pieces of equipment and cause significant damage," the security specialist wrote. The memo also referenced "several attacks on various substations," recently, in Western Washington, "including setting the control houses on fire, forced entry and sabotage of intricate electrical control systems, causing short circuits by tossing chains across the overhead buswork, and ballistic attack with small caliber
