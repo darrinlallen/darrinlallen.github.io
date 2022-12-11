@@ -1,0 +1,6 @@
+Linux Kernel Fixes Longstanding Bug in Its Handling of Floppy Disks
+from the drives-to-succeed dept.
+"Linux kernel 6.2 should contain fixes for some problems handling floppy disks," reports the Register, "a move which shows that someone somewhere is still using them."
+This isn't the only such fix in recent years. As a series of articles on Phoronix details, there has been a slow but steady flow of fixes for the kernel's handling of floppy drives since at least kernel 5.17, as The Register mentioned when it came out....
+
+Back in July 2016, SUSE kernel developer Jiri Kosina submitted a patch. The problem arose because this change broke something else and later got reverted, and so the problem hung around. In July last year, he sent in a new patch that fixed it again for the 5.12 kernel, and was later back-ported to 5.10, an LTS version, and again into kernel 5.15 — another an LTS version, and the one you're running today if you're on the current Ubuntu LTS release, or something built from it such as Linux Mint 21....
