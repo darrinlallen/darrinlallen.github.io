@@ -1,0 +1,5 @@
+It’s not unheard of for government officials to lose their jobs following high-profile breaches. For instance, when the U.S. Office of Personnel Management was breached in 2015, the OPM director Katherine Archuleta and chief information officer Donna Seymour later resigned their positions.
+
+But it’s something else entirely for employees who did not deliberately help intruders breach their employers’ computer systems to be charged with any kind of crime purely because of security negligence.
+
+That’s exactly what happened in late November, when Albanian prosecutors requested that five government IT officials in the public administration department be placed under house arrest for failing to update the antivirus software on government computers. The Albanian IT officials are reportedly accused of “abuse of post,” which can carry penalties of up to seven years in prison, according to the Associated Press. It raises an important question: Does prison time for mistakes incentivize good security practices, or just disincentivize anyone from entering the field in the first place?
