@@ -1,0 +1,3 @@
+Every developer knows that it’s a bad idea to hardcode security credentials into source code. Yet it happens and when it does, the consequences can be dire. Until now, GitHub only made its secret scanning service available to paying enterprise users who paid for GitHub Advanced Security, but starting today, the Microsoft-owned company is making its secrets scanning service available for all public GitHub repos for free.
+
+In 2022 alone, the company notified partners in its secret scanning partner program of over 1.7 million potential secrets that were exposed in public repositories. The service scans repositories for over 200 known token formats and then alerts partners of potential leaks — and you can define your own regex patterns
