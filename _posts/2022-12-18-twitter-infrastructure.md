@@ -1,0 +1,4 @@
+By Erin Woo
+Twitter laid off engineers in its infrastructure organization on Friday evening, reducing the staff in the part of the company that keeps the social media sevice running, according to a person familiar with the situation. The layoffs, which came days after some leaders in the organization were fired, are the latest in a series of employee cuts Musk has made at Twitter which have shrunk the workforce by nearly 75% over the past six weeks.
+
+The employees affected were told via email on Friday evening that Twitter had reviewed its workforce and identified roles that were no longer necessary, according to a copy of the message viewed by The Information. The scope of the layoffs could not be determined. Some laid off engineers tweeted on Friday evening that they were no longer at the company.
