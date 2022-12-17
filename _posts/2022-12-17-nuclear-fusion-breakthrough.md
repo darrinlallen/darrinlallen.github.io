@@ -1,0 +1,1 @@
+Researchers at the National Ignition Facility in Livermore, California, home of the world’s most powerful laser, announced on Tuesday that they crossed the critical threshold in their pursuit of fusion power: getting more energy out of the reaction than they put in.
