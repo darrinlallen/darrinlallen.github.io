@@ -1,0 +1,12 @@
+Stories
+
+Atomic Bomb Pioneer J. Robert Oppenheimer Cleared of 'Black Mark' After 68 Years
+from the father-of-the-bomb dept.
+The Biden administration on Friday reversed a 1954 decision by the U.S. Atomic Energy Commission (AEC) to revoke the security clearance of Robert Oppenheimer, known as the "father of the atomic bomb" for his work on the Manhattan Project. Energy Secretary Jennifer Granholm said in a written order that the since-dissolved AEC acted out of political motives when it revoked Oppenheimer's security clearance nearly 70 years ago. Oppenheimer died in 1967. * From the Santa Fe New Mexican:
+Fifty-five years after the death of J. Robert Oppenheimer, the Biden administration has annulled a decades-old decision that stripped weapons security clearance from the wartime head of the Los Alamos Laboratory and celebrated "father of the atomic bomb."
+
+Oppenheimer was credited for his role in the Manhattan Project, a World War II research and development initiative that created the first nuclear weapons at what is now called Los Alamos National Laboratory. He later served as director of Los Alamos National Laboratory and chairman of the Atomic Energy Commission. But in 1954, after Oppenheimer had opposed development of the hydrogen bomb, the AEC revoked his security clearance through what government officials now call a "flawed process that violated the commission's own regulations."
+
+The hearing took place against the backdrop of the "Red Scare" of the 1950s, and the review concluded that Oppenheimer's privileges were revoked not because of security concerns but due to "fundamental defects" in his character based on past ties with communism and associations with communists — which had had been previously cleared in 1947.
+
+Following an investigation, the Energy Department determined the decision that ended Oppenheimer's national security career was aimed at discrediting him in public debates over U.S. weapons policy. The review detailed numerous procedural flaws, concluding, "the system failed ... [and] that a substantial 
