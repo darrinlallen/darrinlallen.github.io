@@ -1,0 +1,7 @@
+“I have many classes in this auditorium, and I’ve never seen it as full as it is this morning,” said Anka Hu, a senior majoring in mathematics and president of the MIT Science Bowl Club, in her opening remarks at the 2022 MIT Science Bowl Invitational in Kresge Auditorium. “Raise your hand if you think you’re the team that traveled the farthest.”
+
+“University!” echoed through the crowd in response. A group from University High School in Irvine, California, lifted their hands. For many sitting in the audience — MIT student volunteers, teachers, guardians, and of course, the high school participants — Nov. 12 marked their first in-person competition on MIT’s campus, after the event moved online for two years due to the pandemic.
+
+The student-run competition is similar to the National Science Bowl, an annual event in Washington where teams of high school and middle school students compete in a fast-paced verbal forum to solve technical problems and answer science and math questions. In addition, the National Science Bowl holds 60 high school and around 50 middle school regional competitions each year. As an invitational competition, the MIT Science Bowl is a rare opportunity for participants to compete against teams from around the country outside of the nationals.
+
+Sponsored by the School of Science, the event brought together 26 high school teams. The day began with five rapid round-robin matches, continued with casual scrimmages and a lunch break, and culminated in an afternoon of six double-elimination games.
