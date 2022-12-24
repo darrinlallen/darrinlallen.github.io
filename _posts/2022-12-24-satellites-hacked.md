@@ -1,0 +1,11 @@
+Written by Christian Vasquez
+Dec 16, 2022 | CYBERSCOOP
+Researchers at the Cybersecurity and Infrastructure Security Agency recently discovered suspected Russian hackers lurking inside a U.S. satellite network, raising fresh concerns about Moscow’s intentions to infiltrate and disrupt the rapidly expanding space economy.
+
+While details of the attack are scant, researchers blamed the incident on the Russian military group known as Fancy Bear, or APT28. It involved a satellite communications provider with customers in U.S. critical infrastructure sectors.
+
+Responding to a tip about suspicious network behavior, CISA researchers found hackers inside the satellite network earlier this year. MJ Emanuel, a CISA incident response analyst who discussed the incident at the CYBERWARCON cybersecurity conference last month, said it appeared that Fancy Bear was in the victim’s networks for months.
+
+Space security is a growing global concern, especially as key industries and militaries around the world increasingly rely on satellites for vital communications, GPS and internet access. A cyberattack against the U.S. telecom company Viasat, which provides internet service in Europe, disrupted internet service in Ukraine just before the Russian invasion in February. That attack, which officials blamed on Russia, is one of the most significant digital assaults of the war and lead to a warning from the FBI and CISA about other potential Russian infiltration of satellite systems.
+
+Gregory Falco, a professor at Johns Hopkins University who focuses on space cybersecurity, described the state of satellite security as “the most critical and vulnerable than any other point in history.” Satellite systems, he argued, can no longer operate through security by obscurity as vulnerabilities and attack patterns that used to be limited to classified environments are increasingly public.
