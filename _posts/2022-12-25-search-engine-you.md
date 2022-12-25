@@ -1,0 +1,3 @@
+You.com, a search engine launched last year promising more customizability, began offering a ChatGPT-style chatbot on its website Friday that can answer questions and hold a conversation, bringing more artificial intelligence-powered technology to the wider web. Though it does offer some answers with incorrect facts.
+
+The search engine's new feature follows ChatGPT, an AI chatbot that went viral earlier this year for being able to offer unique answers to complex questions, based on information it gleans from around the internet. You.com said it hopes to stand out, though, by offering answers to more-current questions, like, "Who won the 2022 World Cup?" ChatGPT has information only up to last year.
