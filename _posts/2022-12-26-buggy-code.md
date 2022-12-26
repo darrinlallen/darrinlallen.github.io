@@ -1,0 +1,10 @@
+Stories
+
+Study Finds AI Assistants Help Developers Produce Code That's More Likely To Be Buggy
+from the closer-look dept.
+Computer scientists from Stanford University have found that programmers who accept help from AI tools like Github Copilot produce less secure code than those who fly solo. From a report:
+In a paper titled, "Do Users Write More Insecure Code with AI Assistants?", Stanford boffins Neil Perry, Megha Srivastava, Deepak Kumar, and Dan Boneh answer that question in the affirmative. Worse still, they found that AI help tends to delude developers about the quality of their output. "We found that participants with access to an AI assistant often produced more security vulnerabilities than those without access, with particularly significant results for string encryption and SQL injection," the authors state in their paper.
+
+"Surprisingly, we also found that participants provided access to an AI assistant were more likely to believe that they wrote secure code than those without access to the AI assistant." Previously, NYU researchers have shown that AI-based programming suggestions are often insecure in experiments under different conditions. The Stanford authors point to an August 2021 research paper titled "Asleep at the Keyboard? Assessing the Security of GitHub Copilot's Code Contributions," which found that given 89 scenarios, about 40 per cent of the computer programs made with the help of Copilot had potentially exploitable vulnerabilities.
+
+That study, the Stanford authors say, is limited in scope because it only considers a constrained set of prompts corresponding to 25 vulnerabilities and just three programming languages: Python, C, and Verilog. The Stanford scholars also cite a followup study from some of the same NYU eggheads, "Security Implications of Large Language Model Code Assistants: A User Study," as the only comparable user study they're aware of. They observe, however, that their work differs because it focuses on OpenAI's codex-davinci-002 model rather than OpenAI's less powerful codex-cushman-001 model, both of which play a role in GitHub Copilot, itself a fine-tuned descendant of a GPT-3 
