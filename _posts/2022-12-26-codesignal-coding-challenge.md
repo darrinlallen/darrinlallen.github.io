@@ -1,0 +1,1 @@
+https://codesignal.com/?utm_source=google&utm_medium=cpc&utm_term=codesignal&utm_campaign=codesignal_branded&gclid=CjwKCAiAs8acBhA1EiwAgRFdw9ajY6FpQvoyVpN9IxSo-RZV8AYzJ1pTNAv3XJkf8i0hqLR-ZyzCahoCjAsQAvD_BwE&restored=1670562390105
