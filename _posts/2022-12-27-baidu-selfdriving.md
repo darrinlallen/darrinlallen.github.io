@@ -1,0 +1,7 @@
+Baidu Starts Offering Nighttime Driverless Taxis in China
+from the how-about-that dept.
+Baidu, the Chinese internet giant that became known for its search engines, is making some big strides in autonomous driving. From a report:
+Starting this week, the public can ride its robotaxis in Wuhan between 7 am and 11 pm without safety drivers behind the wheel. Previously, its unmanned vehicles could only operate from 9 am to 5 pm in the city. The updated scheme is expected to cover one million customers in certain areas of Wuhan, a city of more than 10 million people.
+
+Like most autonomous vehicle startups, Baidu combines a mix of third-party cameras, radars, and lidars to help its cars see better in low-visibility conditions, in contrast to Tesla's vision-based solution. In August, Baidu started offering fully driverless robotaxi rides, charging passengers at taxi rates. In Q3, Apollo Go, the firm's robotaxi hailing app, completed more than 474,000 rides, up 311% year over year. Accumulatively, Apollo Go had exceeded 1.4 million orders as of Q3. That sounds like a potentially substantial revenue stream for Baidu, but one should take such figures with a grain of salt and ask: how many of these trips are subsidized by discounts? How many of them are repeatable, daily routes rather than one-off novelty rides taken by early adopters? To juice up performance numbers, it's not uncommon to see Chinese robotaxi operators enticing the public to ride in their vehicles with perks.
+Posted by msmash 6 hours ago
