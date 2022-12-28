@@ -1,0 +1,5 @@
+Twitter has long counted views for tweets, but previously chose to keep this information tucked away inside its analytics menu: a data-heavy feature beloved only by social media managers and sadists (but I repeat myself). Knowing how many views a tweet got is useful information, sure, but only if you’re running a business or a brand. For the rest of us it means nothing good at all.
+
+Twitter knows this — or did, anyway. Former employee Paul Stamatiou, who joined the company in 2013, said he worked on a view count feature in 2015, but that he and his team discovered it was simply too sad to launch.
+
+“IIRC we tested it and most people didn’t get any views and we had to have some thresholds before showing it as ‘0 views’ was depressing,” tweeted Stamatiou. He notes that the company’s intention had been to show users that they weren’t “tweeting into the void,” but that the view count proved most of them were. “[it] felt like a useless vanity thing to show that wasn’t worth investing in further,” concludes Stamatiou.
